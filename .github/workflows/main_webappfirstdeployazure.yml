@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebAppFirstDeployAzure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3174AC9BA8214615BF28377FCADE4D4D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2F206DAF38648F7A3547DC003DD6F25 }}
           package: .
